@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Nov 24 20:01:10 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Cpu_pipline
+Top-level Entity Name : Cpu_pipline
+Family : Cyclone IV E
+Total logic elements : 4,114
+    Total combinational functions : 3,588
+    Dedicated logic registers : 1,600
+Total registers : 1600
+Total pins : 417
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
