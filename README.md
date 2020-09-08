@@ -4,6 +4,8 @@
 
 
 ##Participants
+<br />
 Christopher de Oliveira Souza
+<br />
 Murilo de Paula Araujo
 
